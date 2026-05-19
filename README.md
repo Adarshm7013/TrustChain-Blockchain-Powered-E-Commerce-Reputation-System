@@ -44,6 +44,26 @@ Traditional e-commerce reputation systems are centralized and vulnerable to fake
 - Blockchain-based token validation
 
 ## System Architecture
+### Architecture Diagram
+
+![Architecture Diagram](architecture-diagram.png)
+
+### Blockchain Server Page
+
+![Blockchain Server Page](blockchain-server-page.png)
+
+### Feedback Verification Flow
+
+![Feedback Verification Flow](feedback-verification-flow.png)
+
+### Product Purchase Page
+
+![Product Purchase Page](product-purchase page.png)
+
+### Workflow Diagram
+
+![Workflow Diagram](workflow-diagram.png)
+
 
 TrustChain follows a layered architecture:
 
